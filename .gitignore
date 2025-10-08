@@ -1,0 +1,18 @@
+# Bỏ qua tất cả các file dữ liệu CSV
+*.csv
+
+# Bỏ qua các file tạm/log
+*.log
+*.tmp
+*.bak
+*~
+
+# Bỏ qua các thư mục của Python (Môi trường ảo)
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Bỏ qua các file của IDEs (Tùy chọn)
+.vscode/
+.idea/
