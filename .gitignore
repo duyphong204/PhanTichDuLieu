@@ -16,3 +16,6 @@ __pycache__/
 # Bỏ qua các file của IDEs (Tùy chọn)
 .vscode/
 .idea/
+
+!datasets/
+!datasets/**
