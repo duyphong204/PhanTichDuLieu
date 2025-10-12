@@ -19,3 +19,6 @@ __pycache__/
 
 !datasets/
 !datasets/**
+
+# Nhưng chặn không cho file .txt nằm trong datasets được theo dõi
+datasets/**/*.txt
